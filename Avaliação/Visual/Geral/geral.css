@@ -1,0 +1,31 @@
+body{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+header{
+background-color: black;
+    text-align: center;
+    border-style: solid;
+}
+section img{
+    height: 30em;
+    border-radius: 60px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 1000px;
+    padding: 5px;
+}
+.capitao {
+    background-color: rgb(35, 35, 160);
+}
