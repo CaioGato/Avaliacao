@@ -1,0 +1,126 @@
+body{
+    color:white;
+    background-color: black;
+    margin: 0px;
+}
+
+header{
+    background-color:blueviolet;
+    border-radius: 1000px;
+        text-align: center;
+        border-style: solid;
+        color: white;
+}
+
+.btn {
+    border-radius: 1000px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+section img{
+    height: 12em;
+    border-radius: 60px;
+    margin: 13px;
+}
+
+#pnt {
+    display: flex;
+}
+#btn { 
+
+}
+
+#mch {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    width: 100vw;
+}
+
+#a{ 
+    margin-left: auto;
+    margin-right: 1750px;
+    padding: 10px;
+    background-color: rgb(96, 10, 196);
+    text-align: center;
+    border-radius: 1000px;
+    
+} 
+
+#b{
+    margin-left: 50px;
+    margin-right: 1700px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(73, 70, 71);
+    border-radius: 1000px;
+}
+
+#c{
+    margin-left: 100px;
+    margin-right: 1650px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(96, 10, 196);
+    border-radius: 1000px;
+}
+
+#d{
+    margin-left: 150px;
+    margin-right: 1600px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(73, 70, 71);
+    border-radius: 1000px;
+}
+
+#e{
+    margin-left: 200px;
+    margin-right: 1550px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(96, 10, 196);
+    border-radius: 1000px;
+}
+
+#f{
+    margin-left: 250px;
+    margin-right: 1500px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(73, 70, 71);
+    border-radius: 1000px;
+}
+
+#g{
+    margin-left: 300px;
+    margin-right: 1450px;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(96, 10, 196);
+    border-radius: 1000px;
+}
+
+.dlcs {
+    text-align: center;
+}
+
+.img-junta {
+    margin: 0px;
+}
+
+footer{
+    background-color: blueviolet;
+    border-style:dashed;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}

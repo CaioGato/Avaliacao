@@ -20,5 +20,10 @@ section{
 
 }
 a{
-    color: white
+    color: purple
+}
+
+.btn {
+    border-radius: 1000px;
+    padding: 2px;
 }
